@@ -56,7 +56,7 @@ function setup() {
   gameOver.addImage(gameOverImg);
   restart.addImage(restartImg);
   gameOver.scale = 0.5;
-  gameOver.visble = false;
+  gameOver.visible = false;
   restart.scale = 0.5;
   restart.visible = false;
   
